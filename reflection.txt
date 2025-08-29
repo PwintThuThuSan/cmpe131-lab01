@@ -1,0 +1,2 @@
+Based on this lab, why is using branches a powerful and safe way for a team of software engineers to collaborate on a single project? What problems might it prevent?
+Using branches is a powerful and safe way for a team, as it allows for independent work. Thus, it can prevent overwriting each other's changes.
